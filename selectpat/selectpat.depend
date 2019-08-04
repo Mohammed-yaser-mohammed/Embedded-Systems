@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1563661379 source:c:\users\administrator\desktop\selectpat\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1563814182 source:c:\users\administrator\desktop\embedded system\c programming\session 2\task\selectpat\pat.c
+	<stdio.h>
+	<stdlib.h>
+
+1564905041 source:c:\users\administrator\desktop\embedded system\c programming\session 2\task\selectpat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"selectpat.h.h"
+
+1563814312 c:\users\administrator\desktop\embedded system\c programming\session 2\task\selectpat\selectpat.h.h
+
